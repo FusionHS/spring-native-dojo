@@ -1,0 +1,1 @@
+resource file not known at compile time
